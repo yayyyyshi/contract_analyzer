@@ -1,5 +1,6 @@
-transformers
-torch
-sentencepiece
-scikit-learn
 streamlit
+transformers
+sentence-transformers
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+
